@@ -1,4 +1,3 @@
-- [CS 1541 - Introduction to Computer Architecture](#cs-1541---introduction-to-computer-architecture)
 - [Introduction](#introduction)
   * [Description](#description)
   * [Processor Design](#processor-design)
@@ -31,14 +30,6 @@
     + [For Linux](#for-linux)
     + [Establishing SSH connection with X11 forwarding](#establishing-ssh-connection-with-x11-forwarding)
   * [DDD hang issue solution](#ddd-hang-issue-solution)
-
-# CS 1541 - Introduction to Computer Architecture
-Spring Semester 2023 - Project 1
-
-Please accept Project 1 on **GitHub Classroom** using the following link:
-TBD
-
-* DUE: Mar 20 (Monday), 2023 4:30 PM 
 
 # Introduction
 
