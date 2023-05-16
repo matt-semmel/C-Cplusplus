@@ -1,9 +1,3 @@
-# CS 1541 - Introduction to Computer Architecture
-Spring Semester 2023 - Homework 4
-
-* DUE: April 21 (Friday), 2023 11:59 PM
-* Extra Cedit DUE: April 28 (Friday), 2023 11:59 PM
-
 # Introduction
 
 ## Description
